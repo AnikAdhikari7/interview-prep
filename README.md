@@ -1,20 +1,20 @@
 ## MERN Interview
-- ✅ [MERN-Stack-Interview-Questions-(2024)-A4.pdf](./mern/MERN-Stack-Interview-Questions-(2024)-A4.pdf)
-- ✅ [MERN-Stack-Interview-Questions-(2024)-Letter.pdf](./mern/MERN-Stack-Interview-Questions-(2024)-Letter.pdf)
-- [Top-Full-Stack-Developer-Interview-Questions-2025.pdf](./mern/Top-Full-Stack-Developer-Interview-Questions-2025.pdf)
+- [x] [MERN-Stack-Interview-Questions-(2024)-A4.pdf](./mern/MERN-Stack-Interview-Questions-(2024)-A4.pdf)
+- [x] [MERN-Stack-Interview-Questions-(2024)-Letter.pdf](./mern/MERN-Stack-Interview-Questions-(2024)-Letter.pdf)
+- [ ][Top-Full-Stack-Developer-Interview-Questions-2025.pdf](./mern/Top-Full-Stack-Developer-Interview-Questions-2025.pdf)
 - [Top-30-MERN-Stack-Developer-Interview-Questions-and-Answers.pdf](./mern/Top-30-MERN-Stack-Developer-Interview-Questions-and-Answers.pdf)
 - [4.0-Top-200-MERN-Interview-Questions.pdf](./mern/4.0-Top-200-MERN-Interview-Questions.pdf)
 - [4.1-Answers-Top-200-MERN-Interview-Questions.pdf](./mern/4.1-Answers-Top-200-MERN-Interview-Questions.pdf)
 
 ## JavaScript (JS)
-- ✅ [2.0-JS-Interview-Questions.pdf](./javascript/2.0-JS-Interview-Questions.pdf)
-- ✅ [2.1-Answers-JS-Interview-Questions.pdf](./javascript/2.1-Answers-JS-Interview-Questions.pdf)
+- [x] [2.0-JS-Interview-Questions.pdf](./javascript/2.0-JS-Interview-Questions.pdf)
+- [x] [2.1-Answers-JS-Interview-Questions.pdf](./javascript/2.1-Answers-JS-Interview-Questions.pdf)
 
 ## React.js
 - [1.0-HTML-CSS-Front-End-Interview-Questions.pdf](./reactjs/1.0-HTML-CSS-Front-End-Interview-Questions.pdf)
 - [1.1-Answers-HTML-CSS-Front-End-Interview-Questions.pdf](./reactjs/1.1-Answers-HTML-CSS-Front-End-Interview-Questions.pdf)
-- ✅ [3.0-React-Interview-Questions.pdf](./reactjs/3.0-React-Interview-Questions.pdf)
-- ✅ [3.1-Answers-React-Interview-Questions.pdf](./reactjs/3.1-Answers-React-Interview-Questions.pdf)
+- [x] [3.0-React-Interview-Questions.pdf](./reactjs/3.0-React-Interview-Questions.pdf)
+- [x] [3.1-Answers-React-Interview-Questions.pdf](./reactjs/3.1-Answers-React-Interview-Questions.pdf)
 
 ## Node.js/Express.js
 - [5.0-Backend-&-Database-Interview-Questions.pdf](./nodejs-expressjs/5.0-Backend-&-Database-Interview-Questions.pdf)
