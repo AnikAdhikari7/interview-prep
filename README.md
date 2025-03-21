@@ -22,7 +22,7 @@
 
 ## MongoDB
 - [Top-GFG-50-MongoDB-Interview-Questions-with-Answers-for-2025-GeeksforGeeks.pdf](./mongodb/Top-GFG-50-MongoDB-Interview-Questions-with-Answers-for-2025-GeeksforGeeks.pdf)
-- [Top-25-MongoDB-Interview-Questions-and-Answers-for-2025 -DataCamp.pdf](./mongodb/Top-25-MongoDB-Interview-Questions-and-Answers-for-2025 -DataCamp.pdf)
+- [Top-25-MongoDB-Interview-Questions-and-Answers-for-2025 -DataCamp.pdf](./mongodb/Top-25-MongoDB-Interview-Questions-and-Answers-for-2025-DataCamp.pdf)
 - [OBenner-Data-Engineering-Interview-Questions-GitHub.pdf](./mongodb/OBenner-Data-Engineering-Interview-Questions-GitHub.pdf)
 - [GitHub-Collsonu-MongoDB-Interview-Questions-(v5.0).pdf](./mongodb/GitHub-Collsonu-MongoDB-Interview-Questions-(v5.0).pdf)
 - [GitHub-Devinterview-io-Mongodb-Interview-Questions.pdf](./mongodb/GitHub-Devinterview-io-Mongodb-Interview-Questions.pdf)
@@ -33,4 +33,4 @@
 - [Top-50-SQL-Interview-Questions.pdf](./dbms-sql/Top-50-SQL-Interview-Questions.pdf)
 - [SQL-Guide.pdf](./dbms-sql/SQL-Guide.pdf)
 - [SQL-Cheat-Sheet.pdf](./dbms-sql/SQL-Cheat-Sheet.pdf)
-- [DBMS-Notes.pdf](./dbms-sql/DBMS-Notes .pdf)
+- [DBMS-Notes.pdf](./dbms-sql/DBMS-Notes.pdf)
