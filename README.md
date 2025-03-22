@@ -36,5 +36,5 @@
 - [GFG-Top-100-SQL-Interview-Questions-and-Answers-(2025).pdf](./dbms-sql/GFG-Top-100-SQL-Interview-Questions-and-Answers-(2025).pdf)
 - [Top-50-SQL-Interview-Questions.pdf](./dbms-sql/Top-50-SQL-Interview-Questions.pdf)
 - [SQL-Guide.pdf](./dbms-sql/SQL-Guide.pdf)
-- [SQL-Cheat-Sheet.pdf](./dbms-sql/SQL-Cheat-Sheet.pdf)
-- [DBMS-Notes.pdf](./dbms-sql/DBMS-Notes.pdf)
+- ✅ [SQL-Cheat-Sheet.pdf](./dbms-sql/SQL-Cheat-Sheet.pdf)
+- ✅ [DBMS-Notes.pdf](./dbms-sql/DBMS-Notes.pdf)
