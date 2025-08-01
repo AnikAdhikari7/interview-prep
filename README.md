@@ -41,8 +41,8 @@
 - ✅ [DBMS-Notes.pdf](./dbms-sql/DBMS-Notes.pdf)
 
 ## Django
-- [Django-Interview-Preparation.pdf](./django/Django-Interview-Preparation.pdf)
-- [Top-50-Django-Interview-Questions-and-Answers.pdf](./django/Top-50-Django-Interview-Questions-and-Answers.pdf)
-- [DRF-Interview-Prep-Questions-and-Answers.pdf](./django/DRF-Interview-Prep-Questions-and-Answers.pdf)
-- [Django-interview-questions-and-answers-2024.pdf](./django/Django-interview-questions-and-answers-2024.pdf)
-- [Technical-Interview-Questions-for-Django-Developers.pdf](./django/Technical-Interview-Questions-for-Django-Developers.pdf)
+- ✅ [Django-Interview-Preparation.pdf](./django/Django-Interview-Preparation.pdf)
+- ✅ [Top-50-Django-Interview-Questions-and-Answers.pdf](./django/Top-50-Django-Interview-Questions-and-Answers.pdf)
+- ✅ [DRF-Interview-Prep-Questions-and-Answers.pdf](./django/DRF-Interview-Prep-Questions-and-Answers.pdf)
+- ✅ [Django-interview-questions-and-answers-2024.pdf](./django/Django-interview-questions-and-answers-2024.pdf)
+- ✅ [Technical-Interview-Questions-for-Django-Developers.pdf](./django/Technical-Interview-Questions-for-Django-Developers.pdf)
