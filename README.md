@@ -33,6 +33,7 @@
 - [MongoDB-Interview-Questions-GitHub.pdf](./mongodb/MongoDB-Interview-Questions-GitHub.pdf)
 
 ## DBMS/SQL
+- [ACID.gif](./dbms-sql/ACID.gif)
 - ✅ [GFG-Top-100-SQL-Interview-Questions-and-Answers-2025.pdf](./dbms-sql/GFG-Top-100-SQL-Interview-Questions-and-Answers-2025.pdf)
 - ✅ [Top-50-SQL-Interview-Questions.pdf](./dbms-sql/Top-50-SQL-Interview-Questions.pdf)
 - ✅ [SQL-Guide.pdf](./dbms-sql/SQL-Guide.pdf)
